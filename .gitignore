@@ -1,6 +1,3 @@
-.idea/
-corfu.iml
-
 target/
 pom.xml.tag
 pom.xml.releaseBackup
